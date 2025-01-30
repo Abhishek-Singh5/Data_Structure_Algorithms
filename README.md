@@ -1,7 +1,7 @@
-DSA Problem Solving & LeetCode Solutions
+**DSA Problem Solving & LeetCode Solutions**
 Welcome to the repository dedicated to solving various Data Structures and Algorithms (DSA) problems and LeetCode challenges. This repository is a collection of solutions that aim to help improve problem-solving skills and prepare for coding interviews.
 
-Table of Contents
+**Table of Contents**
 Introduction
 Problem Solving Categories
 LeetCode Solutions
@@ -9,13 +9,15 @@ File Structure
 Contribution
 Acknowledgements
 
-Introduction
+**Introduction**
 This repository contains solutions for various DSA topics and LeetCode problems. The problems cover a wide range of difficulty levels, from easy to hard, and include various algorithms and data structures like arrays, linked lists, trees, dynamic programming, and more.
 
 The goal of this repository is to practice and solidify problem-solving skills, prepare for technical interviews, and contribute to a growing collection of useful solutions.
 
-Problem Solving Categories
-1. Data Structures
+**Problem Solving Categories**
+
+**1. Data Structures**
+
 Arrays
 Linked Lists
 Stacks
@@ -24,8 +26,10 @@ Heaps
 Hash Tables
 Trees (Binary Trees, Binary Search Trees, etc.)
 
-Graphs
-3. Algorithms
+**Graphs**
+
+**3. Algorithms**
+
 Sorting and Searching
 Dynamic Programming
 Greedy Algorithms
@@ -33,10 +37,10 @@ Divide and Conquer
 Backtracking
 Recursion
 
-4. LeetCode Solutions
-A collection of problems solved on LeetCode, categorized by difficulty (Easy, Medium, Hard). The problems are solved in various languages, including Python, Java, C++, etc.
+**4. LeetCode Solutions**
+A collection of problems solved on LeetCode, categorized by difficulty (Easy, Medium, Hard). The problems are solved in Java languages.
 
-LeetCode Solutions
+**LeetCode Solutions**
 In this section, you will find the solutions to common LeetCode questions. Each solution is organized by problem number and contains the following information:
 
 Problem Title
@@ -45,7 +49,7 @@ Problem Description
 Solution Code
 Time and Space Complexity Analysis
 
-File Structure
+**File Structure**
 The repository is structured as follows:
 
 markdown
@@ -68,8 +72,6 @@ Copy
 /DSA-Problems: Contains general problem-solving code.
 /LeetCode: Contains solutions specifically for LeetCode problems.
 .py, .java, .cpp: Solution files in various languages.
-Contribution
-If you want to contribute to this repository:
 
 Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
